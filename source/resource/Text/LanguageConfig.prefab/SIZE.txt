@@ -1,0 +1,95 @@
+ line: 4398 enter: 0 maximum: 5    |История
+ line: 4400 enter: 0 maximum: 4    |Загрузить
+ line: 4406 enter: 0 maximum: 8    |Новый Город
+ line: 4408 enter: 0 maximum: 4    |Назад
+ line: 4411 enter: 0 maximum: 4    |Легко
+ line: 4413 enter: 0 maximum: 4    |Сложно
+ line: 4414 enter: 0 maximum: 4    |Загрузить
+ line: 4417 enter: 0 maximum: 6    |Удалить
+ line: 4421 enter: 0 maximum: 4    |Основные
+ line: 4422 enter: 0 maximum: 5    |Музыка
+ line: 4437 enter: 0 maximum: 6    |Нормально
+ line: 4438 enter: 0 maximum: 4    |Быстро
+ line: 4439 enter: 0 maximum: 6    |Ещё быстрее
+ line: 4443 enter: 0 maximum: 6    |Здоровье
+ line: 4453 enter: 0 maximum: 6    |Политика
+ line: 4455 enter: 0 maximum: 6    |Здоровье
+ line: 4460 enter: 0 maximum: 8    |Преступник
+ line: 4467 enter: 0 maximum: 6    |Здоровье
+ line: 4486 enter: 0 maximum: 4    |Сохранить
+ line: 4508 enter: 0 maximum: 4    |Помощь
+ line: 4510 enter: 0 maximum: 4    |Помощь
+ line: 4550 enter: 0 maximum: 6    |Здоровье
+ line: 4555 enter: 0 maximum: 4    |Дорога
+ line: 4563 enter: 0 maximum: 7    |Работает
+ line: 4574 enter: 0 maximum: 6    |Бездельник
+ line: 4575 enter: 0 maximum: 5    |Монеты
+ line: 4577 enter: 0 maximum: 5    |Монеты
+ line: 4588 enter: 0 maximum: 7    |Еда на вынос
+ line: 4602 enter: 0 maximum: 5    |Камень
+ line: 4603 enter: 0 maximum: 4    |Железо
+ line: 4604 enter: 0 maximum: 4    |Глина
+ line: 4606 enter: 0 maximum: 4    |Инструмент
+ line: 4610 enter: 0 maximum: 4    |Нефрит
+ line: 4613 enter: 0 maximum: 5    |Пряность
+ line: 4623 enter: 0 maximum: 5    |Смерть
+ line: 4626 enter: 0 maximum: 5    |Преступность
+ line: 4628 enter: 0 maximum: 6    |Диапазон:
+ line: 4647 enter: 0 maximum: 6    |Здоровье
+ line: 4664 enter: 0 maximum: 8    |Исследование
+ line: 4695 enter: 0 maximum: 4    |Сохранить
+ line: 4697 enter: 0 maximum: 5    |Клавиша 1
+ line: 4698 enter: 0 maximum: 5    |Клавиша 2
+ line: 4733 enter: 0 maximum: 8    |Переместить карту
+ line: 4735 enter: 0 maximum: 5    |Камень
+ line: 4736 enter: 0 maximum: 4    |Железо
+ line: 4737 enter: 0 maximum: 4    |Глина
+ line: 4739 enter: 0 maximum: 5    |Могила
+ line: 4747 enter: 0 maximum: 5    |Пробел
+ line: 4749 enter: 0 maximum: 4    |Рабочие места
+ line: 4755 enter: 0 maximum: 7    |Масштаб интерфейса
+ line: 4756 enter: 0 maximum: 5    |Большой
+ line: 4757 enter: 0 maximum: 5    |Маленький
+ line: 4760 enter: 0 maximum: 4    |Хорошо
+ line: 4782 enter: 0 maximum: 5    |Строить
+ line: 4784 enter: 0 maximum: 6    |Сохранение
+ line: 4798 enter: 0 maximum: 7    |Просрочка
+ line: 4805 enter: 0 maximum: 6    |Погасить:
+ line: 4816 enter: 0 maximum: 4    |Загрузить
+ line: 4820 enter: 0 maximum: 3    |Налог
+ line: 4833 enter: 0 maximum: 4    |Стоимость
+ line: 4849 enter: 0 maximum: 7    |Ожидание
+ line: 4854 enter: 0 maximum: 8    |Новый город
+ line: 4925 enter: 0 maximum: 6    |Здоровье
+ line: 4959 enter: 0 maximum: 8    |Подушный налог
+ line: 4974 enter: 0 maximum: 5    |Дать взятку
+ line: 4981 enter: 0 maximum: 7    |Работает
+ line: 5017 enter: 0 maximum: 7    |Открытие:
+ line: 5026 enter: 0 maximum: 5    |Короткий
+ line: 5027 enter: 0 maximum: 4    |Длинный
+ line: 5042 enter: 0 maximum: 5    |Гражданские
+ line: 5072 enter: 0 maximum: 7    |Обновить
+ line: 5100 enter: 0 maximum: 4    |Загрузить
+ line: 5106 enter: 0 maximum: 8    |Новое сохранение
+ line: 5132 enter: 0 maximum: 6    |Политика
+ line: 5134 enter: 0 maximum: 7    |Советник
+ line: 5147 enter: 0 maximum: 6    |Экспорт
+ line: 5155 enter: 0 maximum: 6    |Отказаться
+ line: 5164 enter: 0 maximum: 4    |Даром
+ line: 5165 enter: 0 maximum: 7    |Готовить
+ line: 5166 enter: 0 maximum: 2    |В путь
+ line: 5169 enter: 0 maximum: 5    |Товары
+ line: 5171 enter: 0 maximum: 8    |Сейчас/Нужно
+ line: 5174 enter: 0 maximum: 8    |Новый корабль
+ line: 5176 enter: 0 maximum: 4    |Продать
+ line: 5177 enter: 0 maximum: 4    |Купить
+ line: 5193 enter: 0 maximum: 4    |Корабль
+ line: 5194 enter: 0 maximum: 7    |Исправить всё
+ line: 5197 enter: 0 maximum: 3    |Карта
+ line: 5199 enter: 0 maximum: 5    |Строить
+ line: 5200 enter: 0 maximum: 5    |Товары
+ line: 5202 enter: 0 maximum: 3    |Кол-во
+ line: 5204 enter: 0 maximum: 3    |Починить
+ line: 5220 enter: 0 maximum: 7    |Установить
+ line: 5257 enter: 0 maximum: 8    |Мои публикации
+ line: 5263 enter: 0 maximum: 5    |Поделиться

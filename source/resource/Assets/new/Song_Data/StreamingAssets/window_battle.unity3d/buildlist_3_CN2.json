@@ -1,0 +1,424 @@
+{
+  "m_Name": "buildlist_3_CN2",
+  "m_Rect": {
+    "x": 0.0,
+    "y": 0.0,
+    "width": 53.0,
+    "height": 98.0
+  },
+  "m_Offset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "m_Border": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "m_PixelsToUnits": 100.0,
+  "m_Pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "m_Extrude": 1,
+  "m_IsPolygon": false,
+  "m_RenderDataKey": {
+    "first": {
+      "data[0]": 3205982531,
+      "data[1]": 1274165797,
+      "data[2]": 2631621818,
+      "data[3]": 3012659502
+    },
+    "second": 21300000
+  },
+  "m_AtlasTags": {
+    "Array": []
+  },
+  "m_SpriteAtlas": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_RD": {
+    "texture": {
+      "m_FileID": 0,
+      "m_PathID": 7062630757215198610
+    },
+    "alphaTexture": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "secondaryTextures": {
+      "Array": []
+    },
+    "m_SubMeshes": {
+      "Array": [
+        {
+          "firstByte": 0,
+          "indexCount": 6,
+          "topology": 0,
+          "baseVertex": 0,
+          "firstVertex": 0,
+          "vertexCount": 4,
+          "localAABB": {
+            "m_Center": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "m_Extent": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      ]
+    },
+    "m_IndexBuffer": {
+      "Array": [
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        2,
+        0,
+        1,
+        0,
+        3,
+        0
+      ]
+    },
+    "m_VertexData": {
+      "m_VertexCount": 4,
+      "m_Channels": {
+        "Array": [
+          {
+            "stream": 0,
+            "offset": 0,
+            "format": 0,
+            "dimension": 3
+          },
+          {
+            "stream": 0,
+            "offset": 0,
+            "format": 0,
+            "dimension": 0
+          },
+          {
+            "stream": 0,
+            "offset": 0,
+            "format": 0,
+            "dimension": 0
+          },
+          {
+            "stream": 0,
+            "offset": 0,
+            "format": 0,
+            "dimension": 0
+          },
+          {
+            "stream": 1,
+            "offset": 0,
+            "format": 0,
+            "dimension": 2
+          },
+          {
+            "stream": 0,
+            "offset": 0,
+            "format": 0,
+            "dimension": 0
+          },
+          {
+            "stream": 0,
+            "offset": 0,
+            "format": 0,
+            "dimension": 0
+          },
+          {
+            "stream": 0,
+            "offset": 0,
+            "format": 0,
+            "dimension": 0
+          },
+          {
+            "stream": 0,
+            "offset": 0,
+            "format": 0,
+            "dimension": 0
+          },
+          {
+            "stream": 0,
+            "offset": 0,
+            "format": 0,
+            "dimension": 0
+          },
+          {
+            "stream": 0,
+            "offset": 0,
+            "format": 0,
+            "dimension": 0
+          },
+          {
+            "stream": 0,
+            "offset": 0,
+            "format": 0,
+            "dimension": 0
+          },
+          {
+            "stream": 0,
+            "offset": 0,
+            "format": 0,
+            "dimension": 0
+          },
+          {
+            "stream": 0,
+            "offset": 0,
+            "format": 0,
+            "dimension": 0
+          }
+        ]
+      },
+      "m_DataSize": [
+        20,
+        174,
+        135,
+        190,
+        72,
+        225,
+        250,
+        62,
+        0,
+        0,
+        0,
+        0,
+        20,
+        174,
+        135,
+        62,
+        72,
+        225,
+        250,
+        62,
+        0,
+        0,
+        0,
+        0,
+        20,
+        174,
+        135,
+        190,
+        72,
+        225,
+        250,
+        190,
+        0,
+        0,
+        0,
+        0,
+        20,
+        174,
+        135,
+        62,
+        72,
+        225,
+        250,
+        190,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "m_Bindpose": {
+      "Array": []
+    },
+    "textureRect": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 53.0,
+      "height": 98.0
+    },
+    "textureRectOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "atlasRectOffset": {
+      "x": -1.0,
+      "y": -1.0
+    },
+    "settingsRaw": 0,
+    "uvTransform": {
+      "x": 100.0,
+      "y": 26.5,
+      "z": 100.0,
+      "w": 49.0
+    },
+    "downscaleMultiplier": 1.0
+  },
+  "m_PhysicsShape": {
+    "Array": [
+      {
+        "Array": [
+          {
+            "x": -0.005,
+            "y": -0.089999996
+          },
+          {
+            "x": -0.065,
+            "y": -0.089999996
+          },
+          {
+            "x": -0.114999995,
+            "y": -0.11
+          },
+          {
+            "x": -0.114999995,
+            "y": -0.25
+          },
+          {
+            "x": -0.095,
+            "y": -0.29999998
+          },
+          {
+            "x": 0.015,
+            "y": -0.29999998
+          },
+          {
+            "x": 0.114999995,
+            "y": -0.22999999
+          },
+          {
+            "x": 0.114999995,
+            "y": -0.17999999
+          },
+          {
+            "x": 0.105,
+            "y": -0.14999999
+          }
+        ]
+      },
+      {
+        "Array": [
+          {
+            "x": 0.105,
+            "y": 0.14
+          },
+          {
+            "x": 0.114999995,
+            "y": 0.24
+          },
+          {
+            "x": 0.114999995,
+            "y": 0.26999998
+          },
+          {
+            "x": 0.095,
+            "y": 0.29
+          },
+          {
+            "x": -0.095,
+            "y": 0.29
+          },
+          {
+            "x": -0.114999995,
+            "y": 0.26999998
+          },
+          {
+            "x": -0.114999995,
+            "y": 0.04
+          },
+          {
+            "x": -0.105,
+            "y": -0.07
+          },
+          {
+            "x": -0.095,
+            "y": -0.08
+          },
+          {
+            "x": 0.005,
+            "y": -0.08
+          },
+          {
+            "x": 0.114999995,
+            "y": -0.03
+          },
+          {
+            "x": 0.114999995,
+            "y": 0.03
+          },
+          {
+            "x": 0.065,
+            "y": 0.099999994
+          }
+        ]
+      },
+      {
+        "Array": [
+          {
+            "x": -0.024999999,
+            "y": 0.01
+          },
+          {
+            "x": -0.035,
+            "y": 0.04
+          },
+          {
+            "x": -0.024999999,
+            "y": 0.03
+          },
+          {
+            "x": 0.005,
+            "y": 0.03
+          },
+          {
+            "x": 0.024999999,
+            "y": 0.02
+          },
+          {
+            "x": -0.035,
+            "y": -0.01
+          }
+        ]
+      }
+    ]
+  },
+  "m_Bones": {
+    "Array": []
+  }
+}
